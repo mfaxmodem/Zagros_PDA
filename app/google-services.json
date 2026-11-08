@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "461156297657",
+    "project_id": "zagroserp",
+    "storage_bucket": "zagroserp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461156297657:android:d2efcc759dcd8ee4b12468",
+        "android_client_info": {
+          "package_name": "ir.zagroserp.pda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoOwX-2WA-J_hSdfT0crUsS0tfzQcEwPs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

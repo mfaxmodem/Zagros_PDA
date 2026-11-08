@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_indigo">#4F46E5</color>
+    <color name="brand_emerald">#059669</color>
+    <color name="brand_amber">#D97706</color>
+    <color name="brand_coral">#DC2626</color>
+    <color name="app_background">#F8F9FA</color>
+    <color name="app_surface">#FFFFFF</color>
+    <color name="app_border">#E2E8F0</color>
+    <color name="app_dark_background">#0F172A</color>
+    <color name="app_dark_surface">#1E293B</color>
+</resources>

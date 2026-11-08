@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Every company installs this APK against its own host. Cloud deployments use HTTPS, while
+  on-premise deployments are frequently reached as http://<lan-ip>:8080, so cleartext has to be
+  permitted for arbitrary hosts. The app flags non-HTTPS addresses in the server setup screen and
+  the settings screen so the operator makes that choice knowingly.
+-->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+            <certificates src="user" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>

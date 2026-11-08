@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">زاگرس PDA</string>
+
+    <string name="location_service_title">ردیابی موقعیت ویزیتور</string>
+    <string name="location_service_text">موقعیت شما به‌صورت زنده برای پنل مدیریت ارسال می‌شود</string>
+    <string name="location_service_text_background">ردیابی در پس‌زمینه فعال است (برای صرفه‌جویی در باتری با دقت کمتر)</string>
+    <string name="location_channel_name">ردیابی موقعیت</string>
+    <string name="location_channel_description">ارسال دوره‌ای موقعیت مکانی ویزیتور</string>
+
+    <string name="push_channel_name">اعلان‌های زاگرس</string>
+    <string name="push_channel_description">تأیید سفارش، تخصیص مسیر و پیام‌های مدیریتی</string>
+
+    <string name="cd_back">بازگشت</string>
+    <string name="cd_search">جست‌وجو</string>
+    <string name="cd_refresh">به‌روزرسانی</string>
+    <string name="cd_close">بستن</string>
+    <string name="cd_scan">اسکن بارکد</string>
+    <string name="cd_more">بیشتر</string>
+</resources>
