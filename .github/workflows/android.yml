@@ -35,8 +35,9 @@ jobs:
       - name: Set up Android SDK
         uses: android-actions/setup-android@v4
 
+      # API 37 ships as "android-37.0"; a bare "platforms;android-37" does not exist.
       - name: Install SDK platform
-        run: sdkmanager --install "platforms;android-37" "platform-tools"
+        run: sdkmanager --install "platforms;android-37.0" "platform-tools"
 
       # Committed from Windows, so the exec bit is missing in the repository.
       - name: Make gradlew executable
